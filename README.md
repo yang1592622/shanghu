@@ -1,4 +1,4 @@
-# vue_demo05
+# vue+vant开发的商户管理系统
 
 ## Project setup
 ```
